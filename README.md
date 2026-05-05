@@ -1,1 +1,3 @@
 # Flipkart-CSAT-Project
+
+This project focuses on analyzing Flipkart customer support data to understand the key factors influencing Customer Satisfaction (CSAT). The dataset includes information on customer queries, categories of issues, agent interactions, response times, and customer remarks. The objective was to perform data cleaning, exploratory data analysis, and sentiment analysis to uncover patterns in customer experience. Additionally, machine learning models were applied to predict CSAT outcomes and evaluate the impact of operational and behavioral factors. The project provides insights into service performance, customer feedback, and areas of improvement, helping in enhancing overall customer satisfaction.
